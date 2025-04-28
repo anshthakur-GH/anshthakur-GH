@@ -5,15 +5,16 @@
 Ansh Singh, a B.Tech Computer Science undergrad at ABESIT Ghaziabad, passionate about AI and Java development. I build innovative solutions like AI text dictation tools and Shopify stores, blending tech with creativity. Skilled in coding, video editing, and SEO, I thrive on turning ideas into impactful digital experiences. As an aspiring entrepreneur, I’m driven to disrupt industries with smart, scalable tech. Currently seeking internships and projects to shape the future of AI-driven innovation.
 
 <p align="left">
+  <a href="https://anshthakur.netlify.app/">
+    <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-anshthakur.netlify.app-00C4B4?logo=web&logoColor=white&style=for-the-badge"/>
+  </a>
   <a href="https://www.youtube.com/@inspirefy_0?sub_confirmation=1">
    <img alt="YouTube" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCmpLoVe7Nc_uyQn5-CZNKMg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
   </a>
   <a href="https://www.instagram.com/inspirefy_daily/">
     <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-@inspirefy__daily-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://anshthakur.netlify.app/">
-    <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-anshthakur.netlify.app-00C4B4?logo=web&logoColor=white&style=for-the-badge"/>
-  </a>
+
 </p>
 
 ---
