@@ -1,37 +1,45 @@
-<h1 align="center">Hi 👋, I'm Ansh Thakur</h1>
-<h3 align="center">Pioneering AI & Java Solutions with Code & Vision.</h3>
+# Ansh Thakur
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jodanshthakur&label=Profile%20views&color=0e75b6&style=flat" alt="jodanshthakur" /> </p>
+**`(AI & Java Developer/Ecommerce Store Developer/Content Creator)`**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jodanshthakur" alt="jodanshthakur" /></a> </p>
+Ansh Singh, a B.Tech Computer Science undergrad at ABESIT Ghaziabad, passionate about AI and Java development. I build innovative solutions like AI text dictation tools and Shopify stores, blending tech with creativity. Skilled in coding, video editing, and SEO, I thrive on turning ideas into impactful digital experiences. As an aspiring entrepreneur, I’m driven to disrupt industries with smart, scalable tech. Currently seeking internships and projects to shape the future of AI-driven innovation.
 
-- 🔭 I’m currently working on **Awesome AI Projects**
+   <p align="left">
+      <a href="https://www.youtube.com/@inspirefy_0?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
 
-- 🌱 I’m currently learning **JAVA Development & AI Automation**
+<a href="https://www.instagram.com/inspirefy_daily/">
+  <img alt="Instagram followers" title="Instagram followers" src="https://img.shields.io/badge/Instagram-@inspirefy__daily-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
+</a>
 
-- 👯 I’m looking to collaborate on **AI Automation Projects**
+   </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/JodAnshThakur](https://github.com/JodAnshThakur)
+---
 
-- 💬 Ask me about **AI Automation, AI Tools, Java and SEO, Ecommerce Store Development**
+### 🧰 Languages and Tools
 
-- 📫 How to reach me **mailtoanshthakur@gmail.com**
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
 
-- ⚡ Fun fact **I am UNFAZED**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/inspirefy_daily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="inspirefy_daily" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ansh-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansh-singh" height="30" width="40" /></a>
-<a href="https://fb.com/ansh thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ansh thakur" height="30" width="40" /></a>
-<a href="https://instagram.com/anshthakur_ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshthakur_ig" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@inspirefy_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@inspirefy_0" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ansh thakur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ansh thakur" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jodanshthakur&show_icons=true&locale=en&layout=compact" alt="jodanshthakur" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jodanshthakur&show_icons=true&locale=en" alt="jodanshthakur" /></p>
+#
+<!--
+<details>
+ <summary><h3>👨‍💻 Ansh's Tech Journey</h3></summary>
+   I kicked off my tech journey as a B.Tech Computer Science undergrad at ABESIT Ghaziabad, fueled by a passion for artificial intelligence and Java development. Diving deep into coding, I built projects like AI text dictation tools and Shopify stores, blending innovation with creativity. Alongside mastering Java, C, and JavaScript, I honed skills in video editing and SEO, aiming to craft impactful digital experiences. My entrepreneurial spirit drives me to disrupt industries, pushing me to pursue internships and projects over a traditional 9-to-5. Now, I’m ready to take on the challenge of creating scalable AI-driven solutions, chasing my vision to shape the future of tech with bold, uncomfortable leaps forward.
+</details>
+-->
+[website]: https://anshthakur.netlify.app/
+[youtube]: https://www.youtube.com/@inspirefy_0
+[instagram]:https://www.instagram.com/inspirefy_daily/
