@@ -6,7 +6,7 @@ Ansh Singh, a B.Tech Computer Science undergrad at ABESIT Ghaziabad, passionate 
 
 <p align="left">
   <a href="https://www.youtube.com/@inspirefy_0?sub_confirmation=1">
-    <img alt="YouTube" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+   <img alt="YouTube" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCzB8K8Z3K6Y5q2X8X9Z9v0Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
   </a>
   <a href="https://www.instagram.com/inspirefy_daily/">
     <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-@inspirefy__daily-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
