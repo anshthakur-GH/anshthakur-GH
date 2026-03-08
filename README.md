@@ -23,18 +23,7 @@ Let's Connect
 📲 Book a session: +91 7460011985
 📧 LinkedIn DMs open for automation, AI agents, n8n workflows, and SEO system discussions
 
-<p align="left">
-  <a href="https://unfazed-ai.online/">
-    <img alt="Unfazed AI" title="Portfolio + Agency" src="https://img.shields.io/badge/Portfolio-anshthakur.netlify.app-00C4B4?logo=web&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://www.youtube.com/@unfazed-ai">
-   <img alt="YouTube" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCmpLoVe7Nc_uyQn5-CZNKMg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-  </a>
-  <a href="https://www.instagram.com/unfazed.ai/">
-    <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-@inspirefy__daily-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
-  </a>
 
-</p>
 
 ---
 
