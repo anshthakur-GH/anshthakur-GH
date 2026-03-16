@@ -1,6 +1,6 @@
 # Ansh Thakur
 
-**`(AI Voice Agent + Automation Developer | n8n & RAG Expert | Founder & CEO of Unfazed AI)`**
+**`(AI Agent + Automation Developer | Business Workflow Audit expert | Founder & CEO of Unfazed AI)`**
 As founder and CEO of Unfazed AI - where businesses save up to 80% of their operational time and earn 24/7 through AI-powered automation systems.
 
 What we Build at Unfazed AI
