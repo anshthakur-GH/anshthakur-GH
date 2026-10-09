@@ -201,7 +201,7 @@ I then design the automation architecture, validate it against the System Requir
 
 💻 **GitHub:** https://github.com/anshthakur-GH
 
-💼 **LinkedIn:** [YOUR LINKEDIN]
+💼 **LinkedIn:** https://www.linkedin.com/in/ansh-unfazed
 
 ---
 
