@@ -92,11 +92,23 @@ I then design the automation architecture, validate it against the System Requir
 
 ## 🧰 Languages and Tools
 
+<!-- AI & Automation -->
+<img align="left" alt="n8n" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/n8n/EA4B71"/>
+<img align="left" alt="Claude Code" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/claude/000000"/>
+<img align="left" alt="Google Gemini" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/googlegemini/8E75B2"/>
+<img align="left" alt="Claude" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/claude/D97757"/>
+<img align="left" alt="Make" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/make/E02E2E"/>
+<img align="left" alt="Zapier" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/zapier/FF4A00"/>
+<img align="left" alt="Zoho" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/zoho/C8202F"/>
+<img align="left" alt="Google Antigravity" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/google/4285F4"/>
+
+<!-- Development & Infrastructure -->
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
