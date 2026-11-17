@@ -2,7 +2,7 @@
 
 **`AI Automation Specialist | AI Agent Developer | AI Systems Architect | Full-Stack Developer`**
 
-I design and build production AI agents, automation systems, and end-to-end business workflows using LLMs, n8n, APIs, RAG, databases, and modern web technologies.
+I design and build production AI agents, automation systems, and end-to-end business workflows using claude code, LLMs, n8n, APIs, RAG, databases, and modern web technologies.
 
 I’ve delivered **200+ AI Automation Workflow and automation systems** across **22+ clients and 10+ industries**, covering document intelligence, CRM automation, lead management, SEO automation, RAG systems, multi-system integrations, and AI-powered business workflows.
 
@@ -27,7 +27,7 @@ AI Agents, LLM Workflows, RAG, Prompt Engineering, AI Classification, AI Extract
 
 ## ⚙️ Automation & Integrations
 
-n8n, Zoho Flow, Make, Zapier, REST APIs, Webhooks, OAuth, Event-Driven Systems, CRM Automation, Multi-System Integrations
+Claude, n8n, Zoho Flow, Make, Zapier, REST APIs, Webhooks, OAuth, Event-Driven Systems, CRM Automation, Multi-System Integrations
 
 ## 🤖 AI Platforms
 
@@ -43,31 +43,8 @@ Supabase, PostgreSQL, pgvector, MongoDB, Pinecone, AWS S3, Cloud Deployment
 
 ## 🏢 Business Platforms
 
-HubSpot, Salesforce, Zoho, Airtable, Notion, Slack, Google Sheets, SharePoint
+HubSpot, Salesforce, Zoho, Airtable, Notion, Slack, Google workspace, MS365
 
-## 🚀 DocStreamAI
-
-Email Ingestion, WhatsApp Ingestion, SharePoint, IBM Maximo, Direct Document Upload, OCR, AI Classification, Data Extraction, Semantic Search, RAG, Real-Time Processing
-
-## 📄 SDS Compliance Automation
-
-Python, PDF Processing, OCR, Supplier Portal Automation, Fuzzy Matching, Excel Automation, DOCX Generation, Concurrent Processing, Regulatory Compliance Workflows
-
-## 👤 Founder Onboarding Automation
-
-n8n, CRM APIs, Slack API, Google Drive API, Webhooks, AI Agents, Automated Notifications, Multi-System Orchestration
-
-## 🔍 SEO Intelligence Suite
-
-SE Ranking API, Google Search Console, Google Serper, Lighthouse, Google Sheets, AI Clustering, Keyword Research, Competitor Research, SEO Audits
-
-## 📱 SocialSync
-
-React, OAuth2, Meta APIs, LinkedIn APIs, X APIs, Automated Publishing Workflows
-
-## 📑 CognigenAI DocHandler
-
-Python, PDF Processing, AWS S3, PyMuPDF, EasyOCR, OCR Pipelines, Cloud Document Rendering
 
 ## 📊 Experience Highlights
 
